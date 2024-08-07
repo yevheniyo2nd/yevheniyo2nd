@@ -5,7 +5,7 @@ Mi piace *🥊Sport* *✈️viaggi* *📚lettura* e *💻codice* ovviamente.
 Ho seguito diversi corsi come **Web developer** e **Web designer** e ho realizzato alcuni progetti per dimostrare ciò che ho imparato. 
 <br>
 In più ho creato un gioco per dispositivi mobili in GML e ora sto lavorando a un nuovo progetto.
-Attualmente sto imparando i framework e voglio iniziare la mia cariera come sviluppatore junior.
+Attualmente sto imparando i framework e voglio iniziare la mia carriera come sviluppatore junior.
 
 ### Skills and Tools:
 <img src="https://img.shields.io/badge/html-gray?style=for-the-badge&logo=html5&logoColor=FF9537"/> <img src="https://img.shields.io/badge/JS-gray?style=for-the-badge&logo=javascript&logoColor=FFDF3A"/> <img src="https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css3&logoColor=57B1FF"/>
