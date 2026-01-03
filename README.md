@@ -23,14 +23,6 @@ Attualmente sto imparando i framework e voglio iniziare la mia carriera come svi
 Gioco Mobile **Space Story** (*Available for free on Google Play Store*)
 <table>
   <tr>
-    <td>
-      :arrow_down_small:Click to Open on:arrow_down_small:
-      <br>___ Google Play Store __</br>
-      <a href="https://play.google.com/store/apps/details?id=com.PelykhPlays.SpaceStory" target="_blank">
-        <img src="https://play-lh.googleusercontent.com/ETSlKwk3HRZezsiC-DoqrfZWjwIw2_9D-yS8kUkH-1plCwGHzvh-msNMVBVgHyycohw=w240-h480-rw" alt="The Unlimited" width="180" height="180"/>
-      </a>
-    </td>
-    <td>
         <img src="https://play-lh.googleusercontent.com/eYRxaLHv2TwKkKW8mLxuTCL4pIjdwIL6fz2QHg1Lr44JSbQactHj_MFFE4-I6bWjmA=w526-h296-rw" alt="Screenshoot" width="140" height="200"/>
     </td>
     <td>
