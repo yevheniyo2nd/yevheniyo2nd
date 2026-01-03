@@ -20,10 +20,9 @@ Attualmente sto imparando i framework e voglio iniziare la mia carriera come svi
 <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=FF582E"/> <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 ### Progetti esterni:
-Gioco Mobile **Space Story** (*Available for free on Google Play Store*)
+Gioco Mobile **Space Story** (*for free on Google Play Store*)
 <table>
   <tr>
-        <img src="https://play-lh.googleusercontent.com/eYRxaLHv2TwKkKW8mLxuTCL4pIjdwIL6fz2QHg1Lr44JSbQactHj_MFFE4-I6bWjmA=w526-h296-rw" alt="Screenshoot" width="140" height="200"/>
     </td>
     <td>
         <img src="https://play-lh.googleusercontent.com/mp5v-ZiLFQKDRJi3InJRMSW8RbZmB26ywDSST0K2Tu23EQ0kRZpUNVVQBPWj5EDq6g=w526-h296-rw" alt="Screenshoot" width="140" height="200"/>
